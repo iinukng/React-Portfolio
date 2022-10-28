@@ -28,7 +28,7 @@ export const Resume = () => {
         <Modal.Header closeButton>
           <Modal.Title> Coming Soon </Modal.Title>
         </Modal.Header>
-        <Modal.Body>Oops! I currently do not have an updated version of my resume. </Modal.Body>
+        <Modal.Body>Oops! I currently do not have an updated version of my resume, still in the works.</Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>
             Close
